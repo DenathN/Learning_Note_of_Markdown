@@ -7,7 +7,7 @@ this is a note to test the restructuredtext
 
 一曲相思
 ::
-    这人间袅袅炊烟
+	这人间袅袅炊烟
     和风花雪月浪漫
     痴情人多半贪恋
     爱恨情仇都好看
