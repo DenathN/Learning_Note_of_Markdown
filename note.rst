@@ -1,6 +1,7 @@
-==========
 this is a note to test the restructuredtext
 ==========
+note to test reStructuredText
+----------
 
 
 * 一级标题是这样写吗
